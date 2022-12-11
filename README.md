@@ -7,8 +7,11 @@ O processo se dá através dos seguintes passos: **Conectar à API do Twitter ->
 
 Tudo isso é executado de acordo com o schedule do Airflow, que está rodando em uma instância de EC2, pelos seus DAGs.
 
+![pipeline](https://user-images.githubusercontent.com/90157378/206926584-fbaa0afd-58c0-457b-ab9d-f30c2d3cd341.png)
+
 ### 📚 Conteúdo
 Dag e ETL(Scraper)
 
 ### 🌐 Motivação
 Ampliar meus conhecimentos sobre **Engenharia de Dados**
+
